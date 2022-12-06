@@ -3,4 +3,4 @@
 
 ### Task
 
-* Uploading schema to P-CAD PCB by netlists
+* Files used or created for works in Design technology of computer systems cours
