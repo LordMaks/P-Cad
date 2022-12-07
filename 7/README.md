@@ -3,4 +3,4 @@
 
 ### Task
 
-* Uploading schema to P-CAD PCB by netlists
+* Creation of TPM and printed circuit boards in Altium Designer

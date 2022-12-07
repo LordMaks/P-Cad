@@ -3,7 +3,7 @@
 
 ### Task
 
-* Import schema to Altium Designer by P-CAD PCB file
+* Importing P-CAD projects into Altium Designer
 
 ### result
 

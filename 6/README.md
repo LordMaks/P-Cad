@@ -3,7 +3,7 @@
 
 ### Task
 
-* Import schema to Altium Designer by P-CAD PCB file
+* Creation of UGP and schematics in the Altium Designer environment
 
 ### result
 
