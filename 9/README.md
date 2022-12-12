@@ -3,4 +3,4 @@
 
 ### Task
 
-* Uploading schema to P-CAD PCB by netlists
+* Creation of 3D models of multi-section components in SolidWorks
